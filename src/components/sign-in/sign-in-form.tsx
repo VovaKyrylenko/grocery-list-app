@@ -75,7 +75,7 @@ export const SignInForm = () => {
         </Button>
       </form>
       <Typography variant="body1" align="center" style={{ marginTop: 20 }}>
-        Don't have an account? <Link href="/sign-up">Sign Up</Link>
+        Don&apos;t have an account? <Link href="/sign-up">Sign Up</Link>
       </Typography>
     </Container>
   );
